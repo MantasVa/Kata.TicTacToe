@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TicTacToe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TicTacToe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicTacToe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToe/1.0.0": {
+      "type": "project",
+      "path": "../TicTacToeLibrary/TicTacToe.csproj",
+      "msbuildProject": "../TicTacToeLibrary/TicTacToe.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TicTacToe >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mvaluckas\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mvaluckas\\source\\repos\\TicTacTOe\\TicTacToe.GUI\\TicTacToe.GUI.csproj",
+      "projectName": "TicTacToe.GUI",
+      "projectPath": "C:\\Users\\mvaluckas\\source\\repos\\TicTacTOe\\TicTacToe.GUI\\TicTacToe.GUI.csproj",
+      "packagesPath": "C:\\Users\\mvaluckas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mvaluckas\\source\\repos\\TicTacTOe\\TicTacToe.GUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mvaluckas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\mvaluckas\\source\\repos\\TicTacTOe\\TicTacToeLibrary\\TicTacToe.csproj": {
+              "projectPath": "C:\\Users\\mvaluckas\\source\\repos\\TicTacTOe\\TicTacToeLibrary\\TicTacToe.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

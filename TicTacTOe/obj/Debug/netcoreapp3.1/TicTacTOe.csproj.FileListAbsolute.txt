@@ -1,0 +1,13 @@
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\bin\Debug\netcoreapp3.1\TicTacTOe.exe
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\bin\Debug\netcoreapp3.1\TicTacTOe.deps.json
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\bin\Debug\netcoreapp3.1\TicTacTOe.runtimeconfig.json
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\bin\Debug\netcoreapp3.1\TicTacTOe.runtimeconfig.dev.json
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\bin\Debug\netcoreapp3.1\TicTacTOe.dll
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\bin\Debug\netcoreapp3.1\TicTacTOe.pdb
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\obj\Debug\netcoreapp3.1\TicTacTOe.csprojAssemblyReference.cache
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\obj\Debug\netcoreapp3.1\TicTacTOe.AssemblyInfoInputs.cache
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\obj\Debug\netcoreapp3.1\TicTacTOe.AssemblyInfo.cs
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\obj\Debug\netcoreapp3.1\TicTacTOe.csproj.CoreCompileInputs.cache
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\obj\Debug\netcoreapp3.1\TicTacTOe.dll
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\obj\Debug\netcoreapp3.1\TicTacTOe.pdb
+C:\Users\mvaluckas\source\repos\TicTacTOe\TicTacTOe\obj\Debug\netcoreapp3.1\TicTacTOe.genruntimeconfig.cache
